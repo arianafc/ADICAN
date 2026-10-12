@@ -11,8 +11,8 @@ import Register from "./pages/register";
 import Dashboard from "./pages/dashboard";
 import ForgotPassword from "./pages/forgot-password";
 import Users from "./pages/Users";
-import Accounts from "./pages/Accounts";
-import Transactions from "./pages/Transactions";
+import Accounts from "./pages/accounts";
+import Transactions from "./pages/transactions";
 import ChangePassword from "./pages/changePassword";
 
 function AppRoutes() {
